@@ -8,6 +8,10 @@ Prototype for magical image tinting. I.e., "pinkify".
 
 **IMPORTANT:** The latest release of Imagine, [v0.5.0](https://github.com/avalanche123/Imagine/releases/tag/v0.5.0), doesn't include the `Palette` library, so the latest commit of the `develop` branch is used instead.
 
+## Special Notes
+
+Imagine doesn't accept a leading `/` in file paths. E.g., `/img/src/1.png` will throw a "Fatal Error: File doesn't exist", whereas `img/src/1.png` works perfectly.
+
 
 ---
 
