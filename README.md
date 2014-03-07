@@ -6,6 +6,33 @@ Research on how to tint images.
 ---
 
 
+# GitHub Repositories
+
+- [GitHub Search: "image tint"](https://github.com/search?l=PHP&q=image+tint&ref=advsearch&type=Repositories)
+- [dasilvacontin/CanvasDye](https://github.com/dasilvacontin/CanvasDye)
+- [wolffe/tintin](https://github.com/wolffe/tintin)
+- [deakster/impact-imageblender](https://github.com/deakster/impact-imageblender)
+- [francescortiz/image](https://github.com/francescortiz/image)
+- [jespino/django-tint](https://github.com/jespino/django-tint)
+- [war5/tint](https://github.com/war5/tint)
+- [mapbox/node-tint](https://github.com/mapbox/node-tint)
+- [kaleidos/groovyTint](https://github.com/kaleidos/groovyTint)
+- [m1ga/tintimage](https://github.com/m1ga/tintimage)
+
+# PHP Libraries
+
+- [avalanche123/Imagine](https://github.com/avalanche123/Imagine)
+- [Image Manipulation With jQuery & PHP GD | Smashing Coding](http://coding.smashingmagazine.com/2011/04/05/image-manipulation-with-jquery-and-php-gd/)
+- [PHP: GD - Manual](http://us1.php.net/manual/en/book.image.php)
+- [PHP: ImageMagick - Manual](http://www.php.net/manual/en/book.imagick.php)
+- [WideImage - An open-source PHP library for image manipulation](http://wideimage.sourceforge.net/)
+- [Zebra_Image, a lightweight image manipulation library written in PHP](http://stefangabos.ro/php-libraries/zebra-image/)
+- [Intervention/image](https://github.com/Intervention/image)
+
+
+---
+
+
 # Reading Material
 
 - [Modules · joyent/node Wiki](https://github.com/joyent/node/wiki/modules#wiki-graphics)
